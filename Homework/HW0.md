@@ -22,7 +22,10 @@ Note:
   
   ![raw](../Resources/HW0-raw.png)
   
-  - save the page(You can also use shortcut ctrl+s(windows) or cmd+s(mac))
+  - save the page
+    + You can also use shortcut ctrl+s(windows) or cmd+s(mac)
+    + Use the correct file extension ipynb instead of txt
+    + Use the correct 
   
   ![savepage1](../Resources/HW0-savepage1.png)
   
