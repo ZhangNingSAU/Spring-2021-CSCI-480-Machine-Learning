@@ -62,4 +62,5 @@ Note:
 ![md](../Resources/HW0-md.png)
 
 
-
+# Step 1: Finish Q1-Q4
+# Step 2: No submission. If you have any questions, you can email me (better attach some screenshots) or set up an WebEx meeting.
