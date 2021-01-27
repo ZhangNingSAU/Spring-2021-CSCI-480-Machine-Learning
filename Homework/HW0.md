@@ -22,11 +22,11 @@ Note:
   
   ![raw](../Resources/HW0-raw.png)
   
-  - save the page
+  - save the file
     + You can also use shortcut ctrl+s(windows) or cmd+s(mac)
     + Use the correct file extension ipynb instead of txt
     + Use the correct format All Files instead of text
-    + If you know how to install and use command **wget**, you can use the following command in the CLI(use the url of the raw file).
+    + If you know how to install and use command **wget**, you can use the following command at the Terminal (Mac/Linux) or Command Prompt (Windows)(use the url of the raw file).
     ~~~~~
     wget https://raw.githubusercontent.com/ZhangNingSAU/Spring-2021-CSCI-480-Machine-Learning/main/Slides/00_Python_Basics.ipynb
     ~~~~~
@@ -35,17 +35,29 @@ Note:
   
   ![savepage2](../Resources/HW0-savepage2.png)
   
+  - open the file
+    + Of course, you can move the downloaded file into the jupyter notebook folder(which is not that easy to locate).
+    + We have a much simpler way: Drag the file to web browser(the main web page - the page that was launched when you run **Jupyter Notebook**)
+    
+    ![upload](../Resources/HW0-upload.png)
+  
 # Q4: In the ipynb file you crtead in Q3, try the code related to
   + Python basics
   + Numpy
   + Pandas
   + Matplotlib
 Note:
++ you need to install the packages before use them. Use the following commands in the CLI.
+  - pip install numpy
+  - pip install pandas
+  - pip install matplotlib
 + To run the current cell, click on Run or use shortcut Shift+Enter
+  - [other jupyter notebook shortcuts](https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330)
 
 ![runcell](../Resources/HW0-runcell.png)
 
 + Cells are for code by default, if you need to provide markdown(text), change it to Markdown.
+  - [Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)
  
 ![md](../Resources/HW0-md.png)
 
