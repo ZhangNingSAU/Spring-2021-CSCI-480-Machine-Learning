@@ -25,7 +25,11 @@ Note:
   - save the page
     + You can also use shortcut ctrl+s(windows) or cmd+s(mac)
     + Use the correct file extension ipynb instead of txt
-    + Use the correct 
+    + Use the correct format All Files instead of text
+    + If you know how to install and use command **wget**, you can use the following command in the CLI(use the url of the raw file).
+    ~~~~~
+    wget https://raw.githubusercontent.com/ZhangNingSAU/Spring-2021-CSCI-480-Machine-Learning/main/Slides/00_Python_Basics.ipynb
+    ~~~~~
   
   ![savepage1](../Resources/HW0-savepage1.png)
   
@@ -36,6 +40,14 @@ Note:
   + Numpy
   + Pandas
   + Matplotlib
+Note:
++ To run the current cell, click on Run or use shortcut Shift+Enter
+
+![runcell](../Resources/HW0-runcell.png)
+
++ Cells are for code by default, if you need to provide markdown(text), change it to Markdown.
+ 
+![md](../Resources/HW0-md.png)
 
 
 
