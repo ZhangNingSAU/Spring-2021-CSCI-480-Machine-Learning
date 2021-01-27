@@ -13,7 +13,7 @@ Note: If the content of jupyter notbook file **00_Python_Basics.ipynb** does not
 ![newipynb](../Resources/HW0-newipynb.png)
 
 Note: 
-+ When you click on **New**, you will see a list of kernels. Python3 is the default kernel, while others are user-defined ones. For example, MachineLearning is the one I defined for this course. You just need to choose the default one: Python3. 
++ When you click on **New**, you will see a list of kernels. Python3 is the default kernel, while others are user-defined. For example, MachineLearning is the one I defined for this course. You just need to choose the default one: Python3. 
 
 + If you need to download and use the ipynb files(the lecture slides), you can
   - go to https://github.com/ZhangNingSAU/Spring-2021-CSCI-480-Machine-Learning/tree/main/Slides
