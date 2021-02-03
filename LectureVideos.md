@@ -9,3 +9,5 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 # Week 2
 ## Monday 02/01/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/2dd850b880214f639d81e7e3dfeb5f42/playback
+## Wednesday 02/03/2020
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/2df75cb115fa4da48026497805ffac6a
