@@ -1,5 +1,6 @@
 # CSCI480 Spring 2021
 # Homework 1
+# Due: 11:59pm 02/15/2021
 
 Q1. Do your research on Deep Blue (the chess computer), explain why the method Deep Blue used is **NOT** a machine learning approach?<br>
 
