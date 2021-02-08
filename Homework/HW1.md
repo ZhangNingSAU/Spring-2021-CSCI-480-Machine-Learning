@@ -18,7 +18,7 @@ B. False<br>
 
 ![](../Resources/HW1-overfitting.png)
 
-Q5. Given the following information of a dataset, Which model can **NOT** be used for this regression problem. Explain your answer<br>
+Q5. Given the following information of a dataset, Which model can **NOT** be used for this regression problem. Explain your answer.<br>
 A. linear regression<br>
 B. deep learning<br>
 
