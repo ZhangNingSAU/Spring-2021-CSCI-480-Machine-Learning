@@ -20,5 +20,6 @@ Q1. Train and test your ML model for the [HW2_Student_Scores_Database](../Resour
 + Bonus(15 points)
   - provide feature scaling(5 points )
   - create a pipeline (10 points)
-# Step 1: Please answer Q1
-# Step 3: Please save the answers in a Python Jupyter notebook file, name it as "CSCI480_Homework2_JohnDoe(0123456).ipynb", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
+# Step 1: Please complete Q1
+# Step 2: Please save the answers in a Python Jupyter notebook file, name it as "CSCI480_Homework2_JohnDoe(0123456).ipynb", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
++ Note: in the .ipynb file, if you need to provide some comments or explanation for your work, you need to change the type of the file to Markdown. Here is the [basic syntanx for Markdonw](https://www.markdownguide.org/basic-syntax/)
