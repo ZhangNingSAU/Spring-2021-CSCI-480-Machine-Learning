@@ -17,7 +17,7 @@ Q1. Train and test your ML model for the [HW2_Student_Scores_Database](../Resour
   - handling with the categorical attribte(s)
   - choose and train your model
   - test your model
-+ Bonus(10 points)
++ Bonus(15 points)
   - provide feature scaling(5 points )
   - create a pipeline (10 points)
 # Step 1: Please answer Q1
