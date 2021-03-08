@@ -1,6 +1,6 @@
 # CSCI480 Spring 2021
-# Homework 2
-# Due: 11:59pm 03/01/2021
+# Homework 3
+# Due: 11:59pm 03/15/2021
 
 # Q1: Downlaod the MNIST dataset and use 60000 instances as the training set, and 10000 as the test set(use all the 70000 instances in the dataset).
 # Q2: Design and train a binary classifier to predict even-number or not-even-number.
@@ -54,7 +54,8 @@ y_true = [digit in [2,3,5,7] for digit in y_true]
 + Use precision and recall/sensitivity as the metrics in Q3.
 + Use F1-score as the metric in Q4.
 + Use cross validation for one model(you can choose any one).
-+ Bonus: Plot the ROC curve and cacluate AUC for each model(15 points).
++ Bonus: Plot the ROC curve and cacluate AUC for the binary classification model in Q2(10 points).
++ Bonus: Error analysis for the multiclass classification model in Q3(10 points).
 
 # Step 1: Please complete Q1-Q4
 # Step 2: Please save the answers in a Python Jupyter notebook file, name it as "CSCI480_Homework3_JohnDoe(0123456).ipynb", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
