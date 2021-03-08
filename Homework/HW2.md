@@ -1,6 +1,6 @@
 # CSCI480 Spring 2021
 # Homework 2
-# Due: 11:59pm 03/01/2021
+# Due: 11:59pm 03/05/2021
 
 Q1. Train and test your ML model for the [HW2_Student_Scores_Database](../Resources/hw2_student_scores.csv)
 + This is a database I created for HW2 based on the [Student_Scores_Database](../Resources/student_scores.csv) we used in [Chapter 1](../Slides/01_The_Machine_Learning_Landscape.ipynb)
