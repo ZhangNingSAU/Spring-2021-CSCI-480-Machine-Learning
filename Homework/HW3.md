@@ -50,9 +50,10 @@ y_true = [digit in [2,3,5,7] for digit in y_true]
 ~~~~
 
 # Note:
-+ Use accuracy as the metric in Q2
-+ Use precision and recall/sensitivity as the metrics in Q3
-+ Use F1-score as the metric in Q4
++ Use accuracy as the metric in Q2.
++ Use precision and recall/sensitivity as the metrics in Q3.
++ Use F1-score as the metric in Q4.
++ Use cross validation for one model(you can choose any one).
 + Bonus: Plot the ROC curve and cacluate AUC for each model(15 points).
 
 # Step 1: Please complete Q1-14
