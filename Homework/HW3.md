@@ -56,6 +56,6 @@ y_true = [digit in [2,3,5,7] for digit in y_true]
 + Use cross validation for one model(you can choose any one).
 + Bonus: Plot the ROC curve and cacluate AUC for each model(15 points).
 
-# Step 1: Please complete Q1-14
+# Step 1: Please complete Q1-Q4
 # Step 2: Please save the answers in a Python Jupyter notebook file, name it as "CSCI480_Homework3_JohnDoe(0123456).ipynb", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
 + Note: in the .ipynb file, if you need to provide some comments or explanation for your work, you need to change the type of the file to Markdown. Here is the [basic syntanx for Markdonw](https://www.markdownguide.org/basic-syntax/)
