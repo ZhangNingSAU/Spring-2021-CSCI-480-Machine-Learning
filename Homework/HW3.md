@@ -56,6 +56,7 @@ y_true = [digit in [2,3,5,7] for digit in y_true]
 + Use cross validation for one model(you can choose any one).
 + Bonus: Plot the ROC curve and cacluate AUC for the binary classification model in Q2(10 points).
 + Bonus: Error analysis for the multiclass classification model in Q3(10 points).
++ Execute your code before the submssion.
 
 # Step 1: Please complete Q1-Q4
 # Step 2: Please save the answers in a Python Jupyter notebook file, name it as "CSCI480_Homework3_JohnDoe(0123456).ipynb", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
