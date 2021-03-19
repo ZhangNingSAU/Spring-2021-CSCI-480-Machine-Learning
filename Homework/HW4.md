@@ -17,6 +17,7 @@ y = 1 + 2*x1 + 3*x2
   - you can use the grad_mse() and mse() functions for Batch Gradient Descent directly, but remember you only need to use a mini-batch(part) of the whole training set when updating the paramters.
   - To select a mini batch, you can decide a mini batch size, then randomly select the mini batch from the whole training set in each iteration. You can also use other ideas to select the mini batch.
   - use mse to evaluate the model
+  - Bonus: provide a learning_rate_scheduler(10 points)
 # Q3: Design and train a ridge model, or a lasso model, or a ElasticNet model.
 + Note: 
   - You can choose any model for the regularization.
