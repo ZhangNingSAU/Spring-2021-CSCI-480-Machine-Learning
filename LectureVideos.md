@@ -63,3 +63,7 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/9db1596e0f474891b8c2f854c5d3b9c5
 ## Friday 03/19/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/e21efcc5d99340fbb5175796861bda59
+
+# Week 9
+## Monday 03/22/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/e28dc61080bb4dd9b657013452921c32
