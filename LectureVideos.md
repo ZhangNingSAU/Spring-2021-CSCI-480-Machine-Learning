@@ -33,7 +33,7 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 # Week 5
 ## Monday 02/22/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/e83d5d5b6fee4afdb39d5f3f5290421e/playback
-## Wednesday
+## Wednesday 02/24/2021
 no class
 ## Friday 02/26/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/45acb7db92b74bf890262b3f9af869f3/playback
@@ -67,3 +67,5 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 # Week 9
 ## Monday 03/22/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/e28dc61080bb4dd9b657013452921c32
+## Wednesday 03/24/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/9cdd4980222d4f689ae1d1f8bb16cf54
