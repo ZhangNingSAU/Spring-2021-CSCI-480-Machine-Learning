@@ -81,3 +81,5 @@ Midterm exam
 # Week 11
 ## Monday 04/05/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/2c09af095c344855ba13df885e429562
+## Wednesday 04/07/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/6f4546d1a3f04ce38247690be25ad27b/playback
