@@ -1,5 +1,5 @@
 # CSCI480 Spring 2021
-# Homework 7 for chapters 8 and 8.5
+# Homework 7 for chapters 8 and 9
 # Due: 11:59pm 04/30/2021
 # Q1. Design and test a PCA model on Iris database.
 ## Step 1: Load the Iris database(all the 4 features)
