@@ -101,3 +101,7 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/2d2fe9869a6a4a5bbc5be9044b97bec1
 ## Friday 04/23/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/417e7b16b19e460ebbcba5cf06d9232a/playback
+
+# Week 14
+## Monday 04/26/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/77dfa87e124e42c295dbfe39e7018229/playback
