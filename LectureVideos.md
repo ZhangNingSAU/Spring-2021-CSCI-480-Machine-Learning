@@ -107,3 +107,5 @@ https://stambrose.webex.com/recordingservice/sites/stambrose/recording/417e7b16b
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/77dfa87e124e42c295dbfe39e7018229/playback
 ## Wdnesday 04/28/2021
 https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/736726d19b794bd5ac797c893cd83379
+## Friday 04/30/2021
+https://stambrose.webex.com/recordingservice/sites/stambrose/recording/playback/1f027d0e8beb1039bfb7005056815ee6
