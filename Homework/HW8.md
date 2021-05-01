@@ -7,8 +7,10 @@ Note:
 2. Use 60,000 data points as the full training set, and 10,000 as the test set.
 3. Split the full training set to create the training set(55,000 data points, used to update the parameters), and a validation set(5,000 data points)
 4. You can design your own neural network(the number of hidden layers, the number of neurons in each hidden layer, the activation function, the optimizer, and any other hyper-parameters. You can also use either a sequential model or non-sequential model)
-5. Let's take this homework assignment as a `CONTEST`, the one who has the highest accuracy on the test set will get 10 points as bonus! The one with the second highest will get 5 points.
-
+5. Let's take this homework assignment as a `CONTEST` to see who can achieve the highest accuray on the test set.
+  - First Prize: 15 points as bonus
+  - Second Prize: 10 points as bonus
+  - Third Prize: 5 points as bonus
 
 # Step 1: Please complete Q1.
 
