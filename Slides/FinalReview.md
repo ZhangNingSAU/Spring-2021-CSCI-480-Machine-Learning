@@ -1,5 +1,6 @@
 Hi guys,
-In the final exam, you do NOT need to write any code. You just need to understand the basic machine learning concepts, terminologies, strategies, and techniques that we learned in Chapters 1 to 10.
+
+In the final exam, you do NOT need to write any code. You only need to understand the basic machine learning concepts, terminologies, strategies, and techniques we learned in Chapters 1 to 10.
 Here are some topics you may need to review.
 
 # Chapter 1
